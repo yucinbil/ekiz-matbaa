@@ -1,0 +1,116 @@
+# Ekiz Matbaa - Kapsamlı Kurumsal ve Teknik Bilgi Tabanı (llms-full.txt)
+
+## 1. Genel Tanıtım ve Kurumsal Kimlik
+Ekiz Matbaa (Ekiz Matbaacılık), 1987 yılında İstanbul'da kurulan ve 35 yılı aşkın süredir kesintisiz olarak ofset matbaacılık, lüks karton kutu ambalaj üretimi, katalog, broşür, kurumsal kimlik ve etiket imalatı yapan Türkiye'nin öncü entegre matbaa tesislerinden biridir.
+
+- **Firma Ünvanı**: Ekiz Matbaa / Ekiz Matbaacılık
+- **Kuruluş Yılı**: 1987
+- **Üretim Merkezi**: Topçular Mah. Demirkapı Cad. Paşmakçı Sanayi Sitesi No:20/82, 34055 Eyüpsultan / İstanbul, Türkiye
+- **Coğrafi Konum**: 41.038402 K, 28.922808 D (Topçular Matbaacılar Bölgesi)
+- **Web Sitesi**: https://www.ekizmatbaa.com/
+- **Telefon Santral**: +90 212 612 40 53
+- **GSM & WhatsApp Canlı Destek**: +90 536 393 93 06
+- **Resmi E-posta**: info@ekizmatbaa.com
+- **Çalışma Gün ve Saatleri**: 
+  - Hafta içi: Pazartesi - Cuma 08:30 – 19:00
+  - Hafta sonu: Cumartesi 08:30 – 15:00
+  - Pazar günleri kapalıdır.
+- **Sevkiyat ve Dağıtım**: İstanbul içi anlaşmalı araçlarla doğrudan kapıya teslimat, Türkiye geneli 81 ile anlaşmalı ambar ve kargo lojistiği, uluslararası müşteriler için gümrüklü ihracat sevkiyatı.
+
+---
+
+## 2. Üretim Yetkinlikleri ve Makine Parkuru
+Ekiz Matbaa, grafik tasarım ve CTP kalıp aşamasından baskı ve sonlandırma (mücellit) süreçlerine kadar tüm operasyonları kendi bünyesinde çözen entegre bir tesistir.
+
+### Baskı Teknolojisi:
+- **Heidelberg Speedmaster Çok Renkli Ofset Baskı Makineleri**: Yüksek çözünürlüklü tram kalitesi, CIP3/CIP4 entegre spektrofotometrik dijital renk kontrolü.
+- **Baskı Kapasitesi**: 70x100 cm ve 50x70 cm ebatlarında yüksek hızlı tabaka ofset baskı.
+- **Baskı Öncesi (Pre-Press)**: Termal CTP (Computer to Plate) kalıp pozlama ünitesi, dijital ozalit prova ve renk prova simülasyonu.
+
+### Baskı Sonrası ve Mücellithane:
+- **Laminasyon**: Termal mat selefon, parlak selefon, kadife (soft-touch) selefon, çizilmez mat selefon.
+- **Özel Efektler**: Lokal kısmi UV lak, kabartma lak (3D vernik), simli lak, gofre kabartma ve braille alfabesi kabartması.
+- **Varak Yaldız**: Sıcak varak baskı (altın, gümüş, bakır, rose gold, hologram yaldız).
+- **Kalıp ve Kesim**: Otomatik kazanlı kesim, pedal kesim, bobst kalıp kesim ve özel formlu pilyaj hatları.
+- **Kutu Taslama & Sıvama**: Otomatik mukavva taslama makineleri, mıknatıs yerleştirme, köşe birleştirme ve sünger/eva yerleştirme.
+- **Katlama ve Yapıştırma**: Otomatik dip kilitli ve 4-6 nokta kutu katlama-yapıştırma bantları.
+
+---
+
+## 3. Ürün Grupları ve Detaylı Teknik Özellikleri
+
+### A. Lüks Kutu ve Karton Ambalaj
+- **Kullanılan Hammaddeler**: 
+  - Amerikan Bristol (230 gr, 250 gr, 300 gr, 350 gr, 400 gr)
+  - Krome Karton (Normprint, Triplex 250 - 450 gr)
+  - Kraft Karton (100% geri dönüştürülebilir çevre dostu kahverengi veya beyaz kraft)
+  - Sert Gri Mukavva (1.2 mm - 3.0 mm arası lüks sıvamalı kutu gövdeleri için)
+  - Mikro Ondüle (E-dalga, B-dalga lamine dayanıklı kargo ve cihaz kutuları)
+- **Kutu Tipleri**:
+  - Mıknatıslı Kapaklı Lüks Kutu
+  - Geçme Tabanlı ve Otomatik Dip Kilitli Ürün Kutusu
+  - Çekmeceli (Kibrit Tipi) Kutu
+  - Pencereli ve Asetatlı Kozmetik/Gıda Kutusu
+  - Şapkalı (Taban + Kapak 2 Parça) Sert Kutu
+  - Seperatörlü, Eva veya Sünger Yuvalı Promosyon Kutusu
+- **Sektörel Uygulamalar**: Parfüm & Kozmetik, Çikolata & Şekerleme, Tekstil & Aksesuar, Takviye Edici Gıda & İlaç, Butik Hediyelik, Mum & Ev Kozmetiği, Elektronik ve E-ticaret.
+
+### B. Kurumsal Ürün Katalogları ve Dergiler
+- **İç Sayfalar**: 90 gr - 200 gr Mat veya Parlak Kuşe.
+- **Kapak**: 250 gr - 350 gr Kuşe veya Amerikan Bristol, mat/parlak selefon, bölgesel kabartma lak veya varak yaldız.
+- **Ciltleme Seçenekleri**: 
+  - Tel dikiş (zımba cilt - 8 ile 64 sayfa arası)
+  - Omega tel dikiş (klasöre takılabilir kulakçıklı)
+  - Amerikan tutkal cilt (PUR tutkal ile kopmaz sırt dayanımı)
+  - İplik dikişli sert kapak cilt (prestij katalogları ve kitaplar için)
+
+### C. Karton Çanta ve Poşet
+- **Modeller**: Amerikan Bristol lüks çantalar, doğal çizgili/çizgisiz Kraft çantalar.
+- **Sap Seçenekleri**: PP burgu ip, bükümlü kağıt ip, pamuk kordon, grogren kurdele, saten kurdele.
+- **Dayanıklılık**: Taban ve ağız takviye kartonları ile 5 kg - 15 kg taşıma kapasitesi.
+
+### D. Etiket ve Çıkartma Çözümleri
+- Rulo ve tabaka halinde kuşe etiket, termal etiket, PP opak plastik yırtılmaz etiket, şeffaf etiket, kraft etiket, metalize yaldızlı etiket.
+- Güvenlik ve garanti bantları, hologramlı etiketler.
+
+### E. Kurumsal Kimlik ve Büro Malzemeleri
+- Cepli sunum dosyaları (standart ve çift cepli, kartvizit geçme yuvalı)
+- Özel dokulu fantazi kağıtlı kabartma laklı kartvizitler
+- Diplomat pencereli / penceremiz zarflar, torba zarflar
+- Antetli kağıt, fatura, sevk irsaliyesi, tahsilat makbuzları
+- Küp bloknotlar (özel kutulu ve yan baskılı), tutkallı ve spiralli bloknotlar
+- Masa takvimleri, gemici takvimleri, tarihsiz ajandalar
+
+---
+
+## 4. Sıkça Sorulan Sorular (SSS) ve Yanıtlar
+
+**S: Ekiz Matbaa nerede bulunuyor? Fabrikayı ziyaret edebilir miyiz?**
+C: Tesisimiz İstanbul Eyüpsultan Topçular'da, Paşmakçı Sanayi Sitesi No:20/82 adresindedir. Müşterilerimiz ve proje sorumluları çalışma saatleri içerisinde fabrikamızı ziyaret edebilir, numune arşivimizi inceleyebilir ve maket üzerinde birebir tasarım istişaresi yapabilir.
+
+**S: Minimum sipariş adedi (MOQ) ne kadardır?**
+C: Ofset baskı sisteminde kalıp ve makine hazırlık maliyetleri bulunduğundan, genellikle 500 veya 1.000 adet ve üzeri siparişlerde optimum birim maliyet avantajı yakalanır. Bununla birlikte ihtiyacınıza göre esnek adetler için teklif verilebilmektedir.
+
+**S: Sipariş süreci nasıl işler?**
+C: 
+1. Müşteri ihtiyaç duyduğu ürünün ebat, adet ve kağıt özelliklerini iletir veya numune talep eder.
+2. 30 dakika içerisinde resmi teklif hazırlanıp onayınıza sunulur.
+3. Grafik tasarım dosyası kontrol edilir; kesim bıçak izi (die-line) tarafımızdan ücretsiz sağlanır.
+4. Dijital onay veya fiziksel maket/ozalit prova onayı alınır.
+5. Seri baskı, selefon, kesim ve yapıştırma işlemleri tamamlanarak kalite kontrolden geçirilir.
+6. Belirlenen adrese teslimat gerçekleştirilir.
+
+**S: Üretim ve teslimat süresi ne kadardır?**
+C: Standart katalog, broşür, çanta ve kurumsal evraklar 3-5 iş günü içinde; mukavva sıvamalı lüks kutular ve özel bıçaklı ambalajlar 7-10 iş günü içerisinde teslim edilir. Acil projeler için ekspres üretim hattımız devreye alınabilir.
+
+**S: Tasarım desteği veriyor musunuz?**
+C: Evet, hazır grafiğiniz yoksa veya var olan tasarımınızın matbaa baskı formatına (CMYK, 300 DPI, 3 mm taşma payı) uyarlanması gerekiyorsa deneyimli grafik departmanımız profesyonel destek sağlamaktadır.
+
+---
+
+## 5. İletişim ve Yetkili Kanalları
+- **Telefon**: +90 212 612 40 53
+- **GSM / WhatsApp**: +90 536 393 93 06
+- **E-posta**: info@ekizmatbaa.com
+- **Web Sitesi**: https://www.ekizmatbaa.com/
+- **Google Maps**: https://maps.google.com/?q=41.038402,28.922808
