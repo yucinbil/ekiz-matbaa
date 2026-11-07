@@ -1,0 +1,155 @@
+{
+  "version": "0.4",
+  "title": "Ekiz Matbaa - Modern Ana Sayfa",
+  "type": "page",
+  "content": [
+    {
+      "id": "ekiz_hero_sec",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "full_width",
+        "background_background": "classic",
+        "background_color": "#1b1e23",
+        "padding": {
+          "unit": "px",
+          "top": "70",
+          "right": "20",
+          "bottom": "70",
+          "left": "20",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "ekiz_hero_col",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "ekiz_hero_content",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<div class=\"ekiz-hero-section\">\n    <div class=\"container text-center\" style=\"max-width: 960px; margin: 0 auto;\">\n        <span class=\"ekiz-badge-item\" style=\"margin-bottom: 20px;\">\n            <i class=\"porto-icon-check\"></i> 1987'den Beri 35+ Yıllık Matbaa Tecrübesi\n        </span>\n        <h1 class=\"ekiz-hero-title\">\n            İstanbul'un Güvenilir <span>Matbaa & Baskı</span> Çözüm Ortağı\n        </h1>\n        <p class=\"ekiz-hero-subtitle\" style=\"margin: 0 auto 30px auto;\">\n            Ofset baskı, lüks kutu & ambalaj üretimi, katalog, kurumsal kimlik ve promosyon ürünlerinde yüksek teknoloji, kusursuz renk yönetimi ve zamanında teslimat garantisi.\n        </p>\n        <div class=\"ekiz-btn-group\" style=\"justify-content: center; margin-bottom: 40px;\">\n            <a href=\"/iletisim/\" class=\"ekiz-btn-primary\">\n                <i class=\"porto-icon-mail\"></i> Hızlı Fiyat Teklifi Alın\n            </a>\n            <a href=\"https://api.whatsapp.com/send?phone=905363939306&text=Merhaba,%20matbaa%20baskı%20hizmetleriniz%20için%20fiyat%20teklifi%20almak%20istiyorum.\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"ekiz-btn-whatsapp\">\n                <i class=\"porto-icon-phone\"></i> WhatsApp ile Danışın\n            </a>\n            <a href=\"/shop/\" class=\"ekiz-btn-outline\">\n                Ürünlerimizi İnceleyin &rarr;\n            </a>\n        </div>\n        <div class=\"ekiz-trust-badges\" style=\"justify-content: center;\">\n            <div class=\"ekiz-badge-item\">✓ Profesyonel Grafik Kontrolü</div>\n            <div class=\"ekiz-badge-item\">✓ Son Teknoloji Ofset Parkur</div>\n            <div class=\"ekiz-badge-item\">✓ Hassas Renk & Prova Onayı</div>\n            <div class=\"ekiz-badge-item\">✓ Zamanında Teslimat</div>\n        </div>\n    </div>\n</div>\n"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ekiz_products_sec",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "15",
+          "bottom": "60",
+          "left": "15",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "ekiz_prod_col",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "ekiz_prod_html",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<div class=\"container\">\n    <div class=\"text-center\" style=\"margin-bottom: 45px;\">\n        <span style=\"color: #f4544c; font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 1px;\">Üretim Alanlarımız</span>\n        <h2 style=\"font-size: 2.3rem; font-weight: 800; color: #1e2229; margin-top: 8px;\">Öne Çıkan Baskı & Matbaa Ürünlerimiz</h2>\n        <p style=\"color: #6c757d; max-width: 650px; margin: 10px auto 0 auto; font-size: 1.05rem;\">Kurumsal firmanızın prestijini artıran yüksek kaliteli kağıt, özel kaplama ve hassas kesim seçenekleri.</p>\n    </div>\n\n    <div class=\"ekiz-products-grid\">\n        <!-- 1. Kutu & Ambalaj -->\n        <div class=\"ekiz-product-card\">\n            <div>\n                <div class=\"ekiz-card-icon\"><i class=\"porto-icon-cart\"></i></div>\n                <h3 class=\"ekiz-card-title\">Ambalaj & Kutu</h3>\n                <p class=\"ekiz-card-desc\">Özel ebat lüks sert kutular, katlamalı ürün kutuları, mat/parlak selefon, kısmi lak ve altın/gümüş varak yaldız uygulamaları.</p>\n            </div>\n            <a href=\"/shop/\" class=\"ekiz-card-link\">Detayları Gör &rarr;</a>\n        </div>\n\n        <!-- 2. Katalog & Dergi -->\n        <div class=\"ekiz-product-card\">\n            <div>\n                <div class=\"ekiz-card-icon\"><i class=\"porto-icon-doc\"></i></div>\n                <h3 class=\"ekiz-card-title\">Katalog & Dergi</h3>\n                <p class=\"ekiz-card-desc\">Ürünlerinizi en etkileyici şekilde sergileyen tel dikişli, iplik dikişli ve Amerikan ciltli yüksek çözünürlüklü ofset kataloglar.</p>\n            </div>\n            <a href=\"/shop/\" class=\"ekiz-card-link\">Detayları Gör &rarr;</a>\n        </div>\n\n        <!-- 3. Broşür & El İlanı -->\n        <div class=\"ekiz-product-card\">\n            <div>\n                <div class=\"ekiz-card-icon\"><i class=\"porto-icon-tag\"></i></div>\n                <h3 class=\"ekiz-card-title\">Broşür & El İlanı</h3>\n                <p class=\"ekiz-card-desc\">Tek kırım, z kırım, akordiyon katlama; 135gr - 350gr kaliteli kuşe kağıt üzerine canlı renkli tanıtım broşürleri.</p>\n            </div>\n            <a href=\"/shop/\" class=\"ekiz-card-link\">Detayları Gör &rarr;</a>\n        </div>\n\n        <!-- 4. Karton Çanta -->\n        <div class=\"ekiz-product-card\">\n            <div>\n                <div class=\"ekiz-card-icon\"><i class=\"porto-icon-bag\"></i></div>\n                <h3 class=\"ekiz-card-title\">Karton Çanta</h3>\n                <p class=\"ekiz-card-desc\">Özel ip kulp, kurdele kulp, taban ve ağız takviyeli, kurumsal markanıza özel lüks baskılı karton mağaza çantaları.</p>\n            </div>\n            <a href=\"/shop/\" class=\"ekiz-card-link\">Detayları Gör &rarr;</a>\n        </div>\n\n        <!-- 5. Kurumsal Kimlik -->\n        <div class=\"ekiz-product-card\">\n            <div>\n                <div class=\"ekiz-card-icon\"><i class=\"porto-icon-badge\"></i></div>\n                <h3 class=\"ekiz-card-title\">Kurumsal Kimlik</h3>\n                <p class=\"ekiz-card-desc\">Prestijli kartvizitler (kabartma laklı, sıvamalı), antetli kağıt, pencereli diplomat zarf ve cepli kurumsal sunum klasörleri.</p>\n            </div>\n            <a href=\"/shop/\" class=\"ekiz-card-link\">Detayları Gör &rarr;</a>\n        </div>\n\n        <!-- 6. Defter & Ajanda -->\n        <div class=\"ekiz-product-card\">\n            <div>\n                <div class=\"ekiz-card-icon\"><i class=\"porto-icon-notebook\"></i></div>\n                <h3 class=\"ekiz-card-title\">Defter & Ajanda</h3>\n                <p class=\"ekiz-card-desc\">Termo deri, sert ciltli, spiralli bloknot ve şirket logosu gofre baskılı promosyon ajanda üretimi.</p>\n            </div>\n            <a href=\"/shop/\" class=\"ekiz-card-link\">Detayları Gör &rarr;</a>\n        </div>\n\n        <!-- 7. Etiket & Çıkartma -->\n        <div class=\"ekiz-product-card\">\n            <div>\n                <div class=\"ekiz-card-icon\"><i class=\"porto-icon-layers\"></i></div>\n                <h3 class=\"ekiz-card-title\">Etiket & Çıkartma</h3>\n                <p class=\"ekiz-card-desc\">Rulo etiket, kuşe etiket, şeffaf/opak çıkartmalar, termolaklı ve güvenlik hologramlı endüstriyel etiketler.</p>\n            </div>\n            <a href=\"/shop/\" class=\"ekiz-card-link\">Detayları Gör &rarr;</a>\n        </div>\n\n        <!-- 8. Takvim & Masa Takvimi -->\n        <div class=\"ekiz-product-card\">\n            <div>\n                <div class=\"ekiz-card-icon\"><i class=\"porto-icon-calendar\"></i></div>\n                <h3 class=\"ekiz-card-title\">Takvim & Masa Takvimi</h3>\n                <p class=\"ekiz-card-desc\">Piramit masa takvimleri, gemici takvimleri, sümen takvimleri ve duvara asılan spiral ciltli kurumsal takvimler.</p>\n            </div>\n            <a href=\"/shop/\" class=\"ekiz-card-link\">Detayları Gör &rarr;</a>\n        </div>\n    </div>\n</div>\n"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ekiz_process_sec",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "background_background": "classic",
+        "background_color": "#fbfbfb",
+        "padding": {
+          "unit": "px",
+          "top": "70",
+          "right": "15",
+          "bottom": "70",
+          "left": "15",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "ekiz_proc_col",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "ekiz_proc_html",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<div class=\"container\">\n    <div class=\"text-center\" style=\"margin-bottom: 50px;\">\n        <span style=\"color: #f4544c; font-weight: 700; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 1px;\">Nasıl Çalışıyoruz?</span>\n        <h2 style=\"font-size: 2.2rem; font-weight: 800; color: #1e2229; margin-top: 8px;\">3 Adımda Kusursuz Baskı Süreci</h2>\n        <p style=\"color: #6c757d; max-width: 600px; margin: 10px auto 0 auto; font-size: 1.05rem;\">Siparişinizden teslimata kadar tüm aşamalarda sıfır hata ve müşteri memnuniyeti ilkesi.</p>\n    </div>\n\n    <div style=\"display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px;\">\n        <div class=\"ekiz-process-step\">\n            <div class=\"ekiz-step-number\">1</div>\n            <h3 class=\"ekiz-step-title\">Baskı Öncesi & Grafik</h3>\n            <p class=\"ekiz-step-text\">Baskı dokümanınız eğitimli grafik departmanımızda kontrol edilir. Taşma payları, çözünürlük ve renk profili kontrol edilerek müşteriden ozalit ve mail onayı alınır.</p>\n        </div>\n\n        <div class=\"ekiz-process-step\">\n            <div class=\"ekiz-step-number\">2</div>\n            <h3 class=\"ekiz-step-title\">Hassas Ofset Baskı</h3>\n            <p class=\"ekiz-step-text\">Onaylanan tasarım, yüksek çözünürlüklü CTP kalıp teknolojisi ve modern Heidelberg ofset makinelerimizde titizlikle basılır; renk stabilitesi sürekli izlenir.</p>\n        </div>\n\n        <div class=\"ekiz-process-step\">\n            <div class=\"ekiz-step-number\">3</div>\n            <h3 class=\"ekiz-step-title\">Mücellit & Teslimat</h3>\n            <p class=\"ekiz-step-text\">Selefon, lak, gofre, kırım ve özel kesim işlemleri tamamlanır. Kalite kontrolden geçen ürünler özenle paketlenerek söz verilen tarihte güvenle teslim edilir.</p>\n        </div>\n    </div>\n</div>\n"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ekiz_cta_sec",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": "30",
+          "right": "15",
+          "bottom": "60",
+          "left": "15",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "ekiz_cta_col",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "ekiz_cta_html",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<div class=\"container\">\n    <div class=\"ekiz-cta-banner\">\n        <h2>Baskı Projeniz İçin Hızlı Teklif Alın</h2>\n        <p>Ebat, adet, kağıt cinsi ve özel taleplerinizi iletin; uzman ekibimiz en uygun maliyet ve teknik detaylarla aynı gün içinde size teklif hazırlasın.</p>\n        <div class=\"ekiz-btn-group\" style=\"justify-content: center;\">\n            <a href=\"https://api.whatsapp.com/send?phone=905363939306&text=Merhaba,%20baskı%20projemiz%20için%20fiyat%20teklifi%20almak%20istiyoruz.\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"ekiz-btn-whatsapp\">\n                <i class=\"porto-icon-phone\"></i> 0536 393 93 06 WhatsApp Teklif\n            </a>\n            <a href=\"tel:02126124053\" class=\"ekiz-btn-primary\">\n                <i class=\"porto-icon-phone\"></i> 0212 612 40 53 Hemen Arayın\n            </a>\n            <a href=\"/iletisim/\" class=\"ekiz-btn-outline\">\n                Teklif Formunu Doldurun &rarr;\n            </a>\n        </div>\n    </div>\n</div>\n"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

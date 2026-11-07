@@ -1,0 +1,49 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-content/uploads/wc-logs/
+Disallow: /wp-content/uploads/woocommerce_transient_files/
+Disallow: /wp-content/uploads/woocommerce_uploads/
+Disallow: /*?add-to-cart=
+Disallow: /*?*add-to-cart=
+
+# -----------------------------------------------------------------------------
+# AI Search & Retrieval Bots (GEO - Generative Engine Optimization)
+# -----------------------------------------------------------------------------
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+# -----------------------------------------------------------------------------
+# Sitemaps & AI Knowledge Base
+# -----------------------------------------------------------------------------
+Sitemap: https://www.ekizmatbaa.com/sitemap_index.xml
+llms.txt: https://www.ekizmatbaa.com/llms.txt
+llms-full.txt: https://www.ekizmatbaa.com/llms-full.txt
