@@ -1,0 +1,19 @@
+
+# CAIO Secret & Binary Hygiene
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*.json
+*secret*
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.zip
+*.tar.gz
+node_modules/
+vendor/
+backups/
+.DS_Store
